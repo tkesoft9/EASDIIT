@@ -1,0 +1,7 @@
+{
+  "name": "SmartAttend - AI Attendance System",
+  "description": "A comprehensive student attendance management system with Excel import, photo management, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
